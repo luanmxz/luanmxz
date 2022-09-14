@@ -5,7 +5,7 @@
   </a>
 </div>
 
-<img src = "banner.gif" width = "325px" align = "right">
+<img src = "banner.gif" width = "325px">
 
 - ❤ Estudando Java e Angular
 - 👩‍💻 Aprendendo sobre back-end
