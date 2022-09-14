@@ -1,10 +1,28 @@
-- 👋 Hi, I’m @luanmxz
-- 👀 I'm interested in posting my codes to follow my evolution, try to help others' code, and learn from it :D
-- 🌱 I’m currently learning Python, Django, Bootstrap, HTML, CSS and JavaScript and I intend to learn more frameworks and languages in the future!
-- 💞️ I’m looking to collaborate on projects that use languages and frameworks I'm learning and using.
-- 📫 Contact me: luanmarcenemxz22@gmail.com (I'll answer you in less than 3 hours - *probably*)
+<img src = "banner.gif" width = "325px" align = "right">
 
-<!---
-luanmxz/luanmxz is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+# 👽 Olá, eu sou o Luan! 👽
+  <div id="badges">
+  <a href = "https://github.com/luanmxz">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+</div>
+
+- ❤ Estudando Java e Angular
+- 👩‍💻 Aprendendo sobre back-end
+- 📧 luanmarcenemxz22@gmail.com
+
+<div>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/angularjs/angularjs-original.svg" title="Angular" alt="Angular" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" title="Typescript" alt="Typescript" width="40" height="40"/>&nbsp;
+</div>
+
+---
+
+
+<div align = "left">
+<img height = "200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luanmxz&show_icons=true&theme=bear&count_private=true"/>
+<img height = "200em" src="https://github-readme-stats.vercel.app/api?username=luanmxz&show_icons=true&show_icons=true&theme=bear&count_private=true" />
+</div>
