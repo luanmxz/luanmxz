@@ -1,11 +1,11 @@
-<img src = "banner.gif" width = "325px" align = "right">
-
 # 👽 Olá, eu sou o Luan! 👽
   <div id="badges">
   <a href = "https://github.com/luanmxz">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
 </div>
+
+<img src = "banner.gif" width = "325px" align = "right">
 
 - ❤ Estudando Java e Angular
 - 👩‍💻 Aprendendo sobre back-end
