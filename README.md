@@ -8,7 +8,7 @@
 <img src = "banner.gif" width = "325px">
 
 - ❤ Dev fullstack Java e Angular
-- 📚 Estudando NodeJS e React Native
+- 📚 Estudando NodeJS, TS e React com foco em Clean Code Arch
 - 📧 luanmarcenemxz22@gmail.com
 
 <div>
